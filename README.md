@@ -3,12 +3,12 @@
 <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="90">
 
 
-###### 📚 2nd year student of Computer Science at Universidade Estadual de Londrina in Brazil 🗺
-###### 🙂 I'm pleased to help whenever I can
-###### 📫 Contact me using:
+##### 📚 2nd year student of Computer Science at Universidade Estadual de Londrina in Brazil 🗺
+##### 🙂 I'm pleased to help whenever I can
+##### 📫 Contact me using:
 * E-mail: rafael_furlanetto2014@hotmail.com
 * Institutional e-mail: rafael.furlanetto@uel.br
-###### 🎼 I also like listening to music while programming!
+##### 🎼 I also like listening to music while programming!
 ---
 ##### Stuff that I made:
 
