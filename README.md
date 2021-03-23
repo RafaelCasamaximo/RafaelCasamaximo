@@ -12,6 +12,6 @@
 ---
 ### Stuff that I made:
 
-![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=flag-india&show_icons=true)
+![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=dracula&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&theme=flag-india&show_icons=true)](https://github.com/RafaelCasamaximo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=dracula&show_icons=true)](https://github.com/RafaelCasamaximo)
