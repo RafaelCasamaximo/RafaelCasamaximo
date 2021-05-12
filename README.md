@@ -4,11 +4,11 @@
 
 
 ### 📚 2nd year student of Computer Science at Universidade Estadual de Londrina in Brazil 🗺
-### 🙂 I'm pleased to help whenever I can
+### 🙂 I'm pleased to help whenever I can about Python, React and C
 ### 📫 Contact me using:
 * E-mail: rafael_furlanetto2014@hotmail.com
 * Institutional e-mail: rafael.furlanetto@uel.br
-### 🎼 I also like listening to music while programming!
+### 🎴 I also like animes!
 ---
 ### Stuff that I made:
 
