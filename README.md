@@ -10,6 +10,7 @@
 ### 📫 Contact me using:
 * E-mail: rafael_furlanetto2014@hotmail.com
 * Institutional e-mail: rafael.furlanetto@uel.br
+* Professional Contact: [LinkedIn](linkedin.com/in/rafael-furlanetto-casamaximo-4bb91222b)
 ---
 ### Stuff that I made:
 
