@@ -3,7 +3,8 @@
 <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="90">
 
 
-### 📚 3rd year student of Computer Science at Universidade Estadual de Londrina in Brazil 🗺
+### 📚 4th year student of Computer Science at Universidade Estadual de Londrina in Brazil 🗺
+### 🕹️ Currently doing an internship at the State University of Londrina in game development
 ### 🙂 I'm pleased to help whenever I can about Python, C/C++ and Unity!
 ### ✨ Wanting to learn more about OpenGL and Shaders!
 ### 🎮 I'm willing to join any gameJam team!
@@ -16,4 +17,4 @@
 
 ![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=codeSTACKr&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL&langs_count=8)](https://github.com/RafaelCasamaximo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL,html&langs_count=8)](https://github.com/RafaelCasamaximo)
