@@ -17,4 +17,4 @@
 
 ![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=codeSTACKr&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL,html,css&langs_count=8)](https://github.com/RafaelCasamaximo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL,html,css,qml&langs_count=8)](https://github.com/RafaelCasamaximo)
