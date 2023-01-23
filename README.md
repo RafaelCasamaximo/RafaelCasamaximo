@@ -1,4 +1,5 @@
 
+
 <div align="center">
 <img src="https://media2.giphy.com/media/Qq1X5ngQCr9YpdWIB5/giphy.gif?cid=790b7611c612dc17e593c969ee5c711e837a587921e7881c&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
@@ -85,12 +86,19 @@
 <a href="https://linkedin.com/in/rafael-furlanetto-casamaximo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="rafael.furlanetto@uel.br"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="rafael_furlanetto2014@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>
+
+
 </div>  
-  
+
+
 ## Stuff that I made:
 
 <div align="center">
-  ![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=codeSTACKr&show_icons=true)
+  
+![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=codeSTACKr&show_icons=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL,html,css,qml,Tcl,Objective-C++&langs_count=8)](https://github.com/RafaelCasamaximo)
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL,html,css,qml,Tcl,Objective-C++&langs_count=8)
 <div>
