@@ -15,8 +15,12 @@
 
 - ❓ I'm pleased to help whenever I can about Python, C/C++ and Unity!  
   
+  
+- 🎮 I'm willing to join any gameJam team!  
 
-- ⚡ Fun fact: I'm willing to join any gameJam team!  
+
+- ⚡ Fun fact: I was a marketing director between 2020 and 2021 for an IEEE Branch.
+  
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
