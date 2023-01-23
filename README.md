@@ -85,16 +85,12 @@
 <a href="https://linkedin.com/in/rafael-furlanetto-casamaximo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/rafaelcasamaximo" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/furlanetto2018" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 ## Stuff that I made:
 
-![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=codeSTACKr&show_icons=true)
+<div align="center">
+  ![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=codeSTACKr&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL,html,css,qml&langs_count=8)](https://github.com/RafaelCasamaximo)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL,html,css,qml,Tcl,Objective-C++&langs_count=8)](https://github.com/RafaelCasamaximo)
+<div>
