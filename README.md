@@ -5,10 +5,10 @@
 </div>  
   
 
-### <div align="center">I'm Rafael Furlanetto, a GameDev and 4th year student of Computer Science at Universidade Estadual de Londrina in Brazil 🗺🚀</div>  
+### <div align="center">I'm Rafael Furlanetto, a Computer Scientist and master's student at Universidade Estadual de Londrina in Brazil 🗺🚀</div>  
   
 
-- 🔭 Currently doing an internship at the State University of Londrina in game development of a game called Logic Gates.  
+- 🔭 Currently researching serious games at the State University of Londrina.  
   
 
 - 🌱 I’m currently learning about emulators and assemblers.  
