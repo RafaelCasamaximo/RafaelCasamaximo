@@ -8,10 +8,10 @@
 ### <div align="center">I'm Rafael Furlanetto, a Computer Scientist and master's student at Universidade Estadual de Londrina in Brazil 🗺🚀</div>  
   
 
-- 🔭 Currently researching serious games at the State University of Londrina.  
+- 🔭 Currently researching serious and educational games.  
   
 
-- 🌱 I’m currently learning about emulators and assemblers.  
+- 🌱 Currently learning about emulators and assemblers.  
   
 
 - ❓ I'm pleased to help whenever I can about Python, C/C++ and Unity!  
