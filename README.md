@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 <img src="https://media2.giphy.com/media/Qq1X5ngQCr9YpdWIB5/giphy.gif?cid=790b7611c612dc17e593c969ee5c711e837a587921e7881c&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
@@ -31,43 +32,33 @@
 
 
 
-### Programming Languages  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+### Main Programming Languages  & Game Engines
 
-</td><td valign="top" width="33%">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py&theme=light" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,unity&theme=light" />
+  </a>
+</p>
 
-
-### Frameworks and others  
-<div align="center">    
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>      
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>    
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
+### Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,cmake,arduino,selenium,tailwind,qt&theme=light" />
+  </a>
+</p>
 
 ### Graphic Design  
-<div align="center">    
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>    
-</div>
-
-</td></tr></table>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae&theme=light" />
+  </a>
+</p>
 
 <br/>  
 
@@ -89,10 +80,9 @@
 
 ## My stats:
 
-<div align="center">
-  
-![Status de Rafael Furlanetto](https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=codeSTACKr&show_icons=true)
-
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=codeSTACKr&show_icons=true&hide=ShaderLab,GLSL,html,css,qml,Tcl,Objective-C++&langs_count=8)
-<div>
+<a href="https://github.com/RafaelCasamaximo">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelCasamaximo&theme=moltack&show_icons=true" />
+</a>
+<a href="https://github.com/RafaelCasamaximo">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&layout=compact&theme=moltack&show_icons=true&hide=ShaderLab,GLSL,html,css,qml,Tcl,Objective-C++&langs_count=6" />
+</a>
