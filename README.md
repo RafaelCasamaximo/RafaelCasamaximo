@@ -9,21 +9,21 @@
 ### <div align="center">I'm Rafael Furlanetto, a Computer Scientist and master's student at Universidade Estadual de Londrina in Brazil 🗺🚀</div>  
   
 
-- 🔭 Currently researching serious and educational games.  
+- 🔭 Currently researching serious and educational games for my master's degree.  
   
 
-- 🌱 Currently learning about emulators, assemblers and computer architecture.  
+- 🌱 Currently learning about emulators, assemblers and computer architecture in my free time.  
   
 
-- ❓ I'm pleased to help whenever I can about C/C++, Unity and Python!  
+- ❓ I'm pleased to help whenever I can about C/C++, Python and Game Engines!  
   
   
 - 🎮 I'm willing to join any gameJam team!  
 
 
 - ⚡ Fun facts:
-  - My current favorite engine is Godot;
-  - I really like to rice my Linux distro;
+  - Despite using Unity for more professional projects, my preferred Engine is currently Godot!
+  - I'm currently looking deeper into retroarch hoping to make a contribution in the near future!
   - I can't choose between Arch and Fedora so I keep changing;
   
   
