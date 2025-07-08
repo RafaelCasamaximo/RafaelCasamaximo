@@ -2,19 +2,20 @@
 <img src="https://media2.giphy.com/media/Qq1X5ngQCr9YpdWIB5/giphy.gif?cid=790b7611c612dc17e593c969ee5c711e837a587921e7881c&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>
 
-<h1 align="center">Oi 👋, eu sou o Rafael Furlanetto!</h1>
-<h3 align="center">Sou Mestre em Ciência da Computação pela Universidade Estadual de Londrina no Brasil 🗺️🚀</h3>
+<h1 align="center">Hi 👋, I'm Rafael Furlanetto!</h1>
+<h3 align="center">I'm a M.Sc. in Computer Science at Universidade Estadual de Londrina in Brazil 🗺️🚀</h3>
 
-- 🔭 Atualmente trabalho na **Hydroforce**
-- 🌱 No momento estou aprendendo **Django**
-- 💬 Me pergunte sobre **React, Unity ou C++**
-- 📫 Como me encontrar: **rafaelcasamaximo2014@gmail.com**
-- 📄 Conheça minhas experiências: [bit.ly/RafaelCasamaximoResume](http://bit.ly/RafaelCasamaximoResume)
-- ⚡ Fato curioso: **Cansei de trocar de distribuição Linux, mas adoro personalizar meu ambiente de desktop e gerenciador de janelas.**
+- 🔭 I’m currently working at **Hydroforce**
+- 🌱 I’m currently learning **Django**
+- 💬 Ask me about **React, Unity or C++**
+- 👾 **I'm always willing to participate and join in any and every GameJam! Just call me up!**
+- 📫 How to reach me: **rafaelcasamaximo2014@gmail.com**
+- 📄 Know about my experiences: [bit.ly/RafaelCasamaximoResume](http://bit.ly/RafaelCasamaximoResume)
+- ⚡ Fun fact: **I grew tired of distro hopping, but I love to customize my desktop environment and window manager.**
 
 ---
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/furlanetto2018" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furlanetto2018" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rafaelcasamaximo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rafaelcasamaximo" height="30" width="40" /></a>
@@ -22,7 +23,7 @@
 
 ---
 
-<h3 align="left">Linguagens de Programação:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -45,7 +46,7 @@
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Backend e Bancos de Dados:</h3>
+<h3 align="left">Backend & Databases:</h3>
 <p align="left">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -54,7 +55,7 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">DevOps & Ferramentas:</h3>
+<h3 align="left">DevOps & Tools:</h3>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -64,7 +65,7 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Outras Tecnologias:</h3>
+<h3 align="left">Other Technologies:</h3>
 <p align="left">
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
@@ -75,5 +76,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&hide=css,tcl,jupyter+notebook" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&locale=en&hide=css,tcl,jupyter+notebook" alt="Top Langs" />
 </p>
