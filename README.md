@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rafael Furlanetto!</h1>
-<h3 align="center">I'm a M.Sc. in Computer Science at Universidade Estadual de Londrina in Brazil 🗺️🚀</h3>
+<h3 align="center">I'm a M.Sc. in Computer Science and Front-end & UX/UI Developer from Brazil 🗺️🚀</h3>
 
 - 🔭 I’m currently working at **Hydroforce**
 - 🌱 I’m currently learning **embedded systems**
