@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RafaelCasamaximo/RafaelCasamaximo/main/assets/boot.svg" width="100%" alt="A:\SYSTEM\PILOT.EXE — RUNNING"/>
+<img src="https://raw.githubusercontent.com/RafaelCasamaximo/RafaelCasamaximo/main/boot.svg" width="100%" alt="A:\SYSTEM\PILOT.EXE — RUNNING"/>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RafaelCasamaximo/RafaelCasamaximo/main/assets/magi.svg" width="100%" alt="MAGI SYSTEM — MELCHIOR · BALTHASAR · CASPER"/>
+<img src="https://raw.githubusercontent.com/RafaelCasamaximo/RafaelCasamaximo/main/magi.svg" width="100%" alt="MAGI SYSTEM — MELCHIOR · BALTHASAR · CASPER"/>
 
 **MAGI CONSENSUS** ─ `07` MAPPED EXPERIENCES · `09` VISIBLE ARTIFACTS · `03+` ACTIVE LANGUAGES
 
