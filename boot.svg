@@ -1,0 +1,59 @@
+<svg viewBox="0 0 820 470" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', ui-monospace, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0906"/>
+      <stop offset="1" stop-color="#050403"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screen"><rect x="10" y="10" width="800" height="450" rx="10"/></clipPath>
+    <style>
+      .frame { fill: url(#bg); stroke: #ff6600; stroke-width: 2; }
+      .bar   { fill: #140b04; }
+      .txt   { fill: #ffab5e; font-size: 17px; letter-spacing: .5px; }
+      .dim   { fill: #a6693a; }
+      .key   { fill: #ff8c33; }
+      .val   { fill: #ffd8a8; }
+      .hi    { fill: #ff6600; font-weight: bold; }
+      .l     { opacity: 0; animation: fin .01s linear forwards; }
+      @keyframes fin { to { opacity: 1; } }
+      .run   { animation: blink 1.1s steps(1) infinite; }
+      .cursor{ animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:.12} }
+      .scan  { fill: #ff6600; opacity: .06; animation: scan 5s linear infinite; }
+      @keyframes scan { from{transform:translateY(48px)} to{transform:translateY(460px)} }
+    </style>
+  </defs>
+
+  <rect class="frame" x="10" y="10" width="800" height="450" rx="10"/>
+
+  <g clip-path="url(#screen)">
+    <rect class="scan" x="10" y="0" width="800" height="26"/>
+    <!-- title bar -->
+    <rect class="bar" x="10" y="10" width="800" height="40"/>
+    <line x1="10" y1="50" x2="810" y2="50" stroke="#ff6600" stroke-width="1" opacity=".6"/>
+    <text class="txt hi" x="28" y="37" filter="url(#glow)">A:\SYSTEM\PILOT.EXE</text>
+    <text class="txt run" x="782" y="37" text-anchor="end" filter="url(#glow)">[ RUNNING ]</text>
+
+    <!-- boot lines -->
+    <text class="l txt" x="28"  y="92"  style="animation-delay:.15s"><tspan class="dim">&gt;</tspan> <tspan class="dim">booting pilot interface...</tspan></text>
+    <text class="l txt" x="28"  y="120" style="animation-delay:.45s"><tspan class="dim">&gt;</tspan> <tspan class="hi">NERV</tspan> <tspan class="dim">//</tspan> 第3新東京市 <tspan class="dim">//</tspan> TOKYO-3</text>
+    <text class="l txt" x="28"  y="148" style="animation-delay:.70s"><tspan class="dim">&gt;</tspan> <tspan class="key">UNIT:</tspan> <tspan class="val">R. FURLANETTO CASAMAXIMO</tspan></text>
+    <text class="l txt" x="28"  y="176" style="animation-delay:.95s"><tspan class="dim">&gt;</tspan> <tspan class="key">ROLE:</tspan> <tspan class="val">Full Stack Engineer</tspan> <tspan class="dim">·</tspan> Frontend <tspan class="dim">·</tspan> UX/UI <tspan class="dim">·</tspan> R&amp;D</text>
+
+    <text class="l txt" x="28"  y="216" style="animation-delay:1.25s"><tspan class="key">▸</tspan> <tspan class="dim">DEPLOYMENT ....</tspan> <tspan class="val">Hydroforce</tspan></text>
+    <text class="l txt" x="28"  y="244" style="animation-delay:1.45s"><tspan class="key">▸</tspan> <tspan class="dim">TRAINING ......</tspan> <tspan class="val">Embedded Systems</tspan></text>
+    <text class="l txt" x="28"  y="272" style="animation-delay:1.65s"><tspan class="key">▸</tspan> <tspan class="dim">QUERY .........</tspan> <tspan class="val">React · Unity · C++</tspan></text>
+    <text class="l txt" x="28"  y="300" style="animation-delay:1.85s"><tspan class="key">▸</tspan> <tspan class="dim">IDLE ..........</tspan> <tspan class="val">reading some papers</tspan></text>
+    <text class="l txt" x="28"  y="328" style="animation-delay:2.05s"><tspan class="key">▸</tspan> <tspan class="dim">PROTOCOL ......</tspan> <tspan class="val">always up for GameJams</tspan></text>
+    <text class="l txt" x="28"  y="356" style="animation-delay:2.25s"><tspan class="key">▸</tspan> <tspan class="dim">ANOMALY .......</tspan> <tspan class="val">stopped distro hopping, still ricing the WM</tspan></text>
+
+    <text class="l txt hi" x="28" y="404" style="animation-delay:2.6s" filter="url(#glow)">&gt; STANDING BY<tspan class="cursor" dx="4">█</tspan></text>
+
+    <!-- corner ticks -->
+    <path d="M10,10 h22 M10,10 v22" stroke="#ff6600" stroke-width="2" fill="none"/>
+    <path d="M810,460 h-22 M810,460 v-22" stroke="#ff6600" stroke-width="2" fill="none"/>
+  </g>
+</svg>

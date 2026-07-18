@@ -1,0 +1,85 @@
+<svg viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', ui-monospace, monospace">
+  <defs>
+    <style>
+      .bg     { fill: #070605; }
+      .panel  { fill: #0e0a06; stroke-width: 2; animation: ppulse 3s ease-in-out infinite; }
+      @keyframes ppulse { 0%,100%{stroke:#6e3400} 50%{stroke:#ff6600} }
+      .code   { fill: #ff6600; font-size: 20px; font-weight: bold; letter-spacing: 1px; }
+      .role   { fill: #ffd8a8; font-size: 15px; font-weight: bold; letter-spacing: 1px; }
+      .desc   { fill: #a6693a; font-size: 12.5px; }
+      .div    { stroke: #ff6600; stroke-width: 1; opacity: .5; }
+      .stat   { fill: #ff8c33; font-size: 15px; font-weight: bold; }
+      .blink  { animation: blink 1.4s steps(1) infinite; }
+      @keyframes blink { 0%,55%{opacity:1} 56%,100%{opacity:.12} }
+      .dot    { fill: #ff3300; animation: blink 1s steps(1) infinite; }
+      .link   { stroke: #ff6600; stroke-width: 2; fill: none; stroke-dasharray: 6 8; animation: flow 1s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -28; } }
+      .ring   { fill: none; stroke: #ff6600; stroke-width: 2; transform-box: fill-box; transform-origin: center; animation: spin 9s linear infinite; }
+      .ring2  { fill: none; stroke: #ff3300; stroke-width: 1.5; opacity:.7; transform-box: fill-box; transform-origin: center; animation: spin 6s linear infinite reverse; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      .core   { fill: #ff6600; font-size: 15px; font-weight: bold; letter-spacing: 2px; }
+      .barfill{ fill: #ff6600; transform-box: fill-box; transform-origin: left center; animation: fill 3.2s ease-out forwards; }
+      @keyframes fill { from{transform:scaleX(0)} to{transform:scaleX(1)} }
+      .sweep  { fill: #ff6600; opacity: .07; animation: sweep 4s linear infinite; }
+      @keyframes sweep { from{transform:translateY(0)} to{transform:translateY(150px)} }
+    </style>
+    <clipPath id="p1"><polygon points="56,118 244,118 260,134 260,296 244,312 56,312 40,296 40,134"/></clipPath>
+    <clipPath id="p2"><polygon points="356,118 544,118 560,134 560,296 544,312 356,312 340,296 340,134"/></clipPath>
+    <clipPath id="p3"><polygon points="656,118 844,118 860,134 860,296 844,312 656,312 640,296 640,134"/></clipPath>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="900" height="360"/>
+
+  <!-- MAGI core -->
+  <circle class="ring"  cx="450" cy="46" r="30"/>
+  <polygon class="ring2" points="450,20 473,33 473,59 450,72 427,59 427,33"/>
+  <text class="core" x="450" y="51" text-anchor="middle">MAGI</text>
+  <text class="desc" x="450" y="88" text-anchor="middle">三賢者 SYSTEM // CONSENSUS ACTIVE</text>
+
+  <!-- connectors -->
+  <path class="link" d="M450,76 C300,96 180,96 150,118"/>
+  <path class="link" d="M450,80 L450,118"/>
+  <path class="link" d="M450,76 C600,96 720,96 750,118"/>
+
+  <!-- PANEL 1 : MELCHIOR -->
+  <polygon class="panel" points="56,118 244,118 260,134 260,296 244,312 56,312 40,296 40,134" style="animation-delay:0s"/>
+  <g clip-path="url(#p1)"><rect class="sweep" x="40" y="118" width="220" height="10"/></g>
+  <circle class="dot" cx="244" cy="134" r="4"/>
+  <text class="code" x="150" y="152" text-anchor="middle">MELCHIOR·1</text>
+  <line class="div" x1="64" y1="166" x2="236" y2="166"/>
+  <text class="role" x="150" y="192" text-anchor="middle">THE ENGINEER</text>
+  <text class="desc" x="150" y="222" text-anchor="middle">Full stack · frontend</text>
+  <text class="desc" x="150" y="242" text-anchor="middle">architecture · BFF</text>
+  <text class="desc" x="150" y="262" text-anchor="middle">contracts · performance</text>
+  <text class="stat blink" x="150" y="296" text-anchor="middle" style="animation-delay:0s">決定 DECISION</text>
+
+  <!-- PANEL 2 : BALTHASAR -->
+  <polygon class="panel" points="356,118 544,118 560,134 560,296 544,312 356,312 340,296 340,134" style="animation-delay:.6s"/>
+  <g clip-path="url(#p2)"><rect class="sweep" x="340" y="118" width="220" height="10" style="animation-delay:1.3s"/></g>
+  <circle class="dot" cx="544" cy="134" r="4" style="animation-delay:.4s"/>
+  <text class="code" x="450" y="152" text-anchor="middle">BALTHASAR·2</text>
+  <line class="div" x1="364" y1="166" x2="536" y2="166"/>
+  <text class="role" x="450" y="192" text-anchor="middle">THE RESEARCHER</text>
+  <text class="desc" x="450" y="222" text-anchor="middle">applied R&amp;D · imaging</text>
+  <text class="desc" x="450" y="242" text-anchor="middle">papers · open source</text>
+  <text class="desc" x="450" y="262" text-anchor="middle">forensics · numerics</text>
+  <text class="stat blink" x="450" y="296" text-anchor="middle" style="animation-delay:.5s">決定 DECISION</text>
+
+  <!-- PANEL 3 : CASPER -->
+  <polygon class="panel" points="656,118 844,118 860,134 860,296 844,312 656,312 640,296 640,134" style="animation-delay:1.2s"/>
+  <g clip-path="url(#p3)"><rect class="sweep" x="640" y="118" width="220" height="10" style="animation-delay:2.6s"/></g>
+  <circle class="dot" cx="844" cy="134" r="4" style="animation-delay:.8s"/>
+  <text class="code" x="750" y="152" text-anchor="middle">CASPER·3</text>
+  <line class="div" x1="664" y1="166" x2="836" y2="166"/>
+  <text class="role" x="750" y="192" text-anchor="middle">THE DESIGNER</text>
+  <text class="desc" x="750" y="222" text-anchor="middle">UX/UI · accessibility</text>
+  <text class="desc" x="750" y="242" text-anchor="middle">natural interfaces</text>
+  <text class="desc" x="750" y="262" text-anchor="middle">multilingual · motion</text>
+  <text class="stat blink" x="750" y="296" text-anchor="middle" style="animation-delay:1s">決定 DECISION</text>
+
+  <!-- consensus bar -->
+  <rect x="40" y="332" width="820" height="10" fill="#1a1109" stroke="#6e3400" stroke-width="1"/>
+  <rect class="barfill" x="41" y="333" width="818" height="8"/>
+  <text class="desc" x="40" y="356" fill="#ff8c33">CONSENSUS</text>
+  <text class="desc" x="860" y="356" text-anchor="end">3/3 CORES SYNCED — APPROVED</text>
+</svg>

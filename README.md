@@ -1,80 +1,154 @@
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║  NERV // MAGI SYSTEM  —  PILOT PROFILE : R. CASAMAXIMO             ║
+║  極秘 // TOP SECRET // CLEARANCE LEVEL A                           ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-<img src="https://media2.giphy.com/media/Qq1X5ngQCr9YpdWIB5/giphy.gif?cid=790b7611c612dc17e593c969ee5c711e837a587921e7881c&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:660000,100:ff6600&height=180&section=header&text=N%20E%20R%20V&fontColor=ffb347&fontSize=88&fontAlignY=42&desc=ネルフ%20//%20R.%20CASAMAXIMO%20//%20PILOT%20PROFILE&descAlignY=72&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3200&pause=700&color=FF6600&center=true&vCenter=true&width=680&height=45&lines=MAGI+SYSTEM+ONLINE...;SYNCHRONIZATION+RATIO+NOMINAL;使徒+PATTERN%3A+BLUE+%E2%80%94+ENGINEER+DETECTED;AWAITING+ORDERS..." alt="typing status"/>
+
+<br/>
+
+![STATUS](https://img.shields.io/badge/STATUS-OPERATIONAL-ff6600?style=for-the-badge&labelColor=0D0D0D)
+![LOCATION](https://img.shields.io/badge/LOC-TOKYO--3%20/%20LONDRINA--PR-ff6600?style=for-the-badge&labelColor=0D0D0D)
+![CLEARANCE](https://img.shields.io/badge/CLEARANCE-MSc%20CS-ff3300?style=for-the-badge&labelColor=0D0D0D)
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Rafael Furlanetto!</h1>
-<h3 align="center">I'm a M.Sc. in Computer Science and Front-end & UX/UI Developer from Brazil 🗺️🚀</h3>
+---
 
-- 🔭 I’m currently working at **Hydroforce**
-- 🌱 I’m currently learning **embedded systems**
-- 💬 Ask me about **React, Unity or C++**
-- 👾 **I'm always willing to participate and join in any and every GameJam! Just call me up!**
-- 📫 How to reach me: **rafaelcasamaximo2014@gmail.com**
-- 📄 Know about my experiences: [bit.ly/RafaelCasamaximoResume](http://bit.ly/RafaelCasamaximoResume)
-- ⚡ Fun fact: **I grew tired of distro hopping, but I love to customize my desktop environment and window manager.**
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RafaelCasamaximo/RafaelCasamaximo/main/assets/boot.svg" width="100%" alt="A:\SYSTEM\PILOT.EXE — RUNNING"/>
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/furlanetto2018" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furlanetto2018" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rafaelcasamaximo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rafaelcasamaximo" height="30" width="40" /></a>
-</p>
+## ◤ MAGI SYSTEM // 三賢者 ◢
+
+> Three cores. One pilot. Consensus reached across engineering, research and design.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RafaelCasamaximo/RafaelCasamaximo/main/assets/magi.svg" width="100%" alt="MAGI SYSTEM — MELCHIOR · BALTHASAR · CASPER"/>
+
+**MAGI CONSENSUS** ─ `07` MAPPED EXPERIENCES · `09` VISIBLE ARTIFACTS · `03+` ACTIVE LANGUAGES
+
+</div>
 
 ---
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-</p>
+## ◤ SYNCHRONIZATION RATIO // シンクロ率 ◢
 
-<h3 align="left">Frontend:</h3>
-<p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-</p>
+<div align="center">
 
-<h3 align="left">Backend & Databases:</h3>
-<p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
+**CORE LANGUAGES**
 
-<h3 align="left">DevOps & Tools:</h3>
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+![C](https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=FF6600)
+![C++](https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=FF6600)
+![C#](https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=csharp&logoColor=FF6600)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF6600)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=FF6600)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF6600)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D0D0D?style=for-the-badge&logo=kotlin&logoColor=FF6600)
+![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=FF6600)
 
-<h3 align="left">Other Technologies:</h3>
-<p align="left">
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-</p>
+**FRONTEND ARRAY**
+
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=FF6600)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=FF6600)
+![React Native](https://img.shields.io/badge/React_Native-0D0D0D?style=for-the-badge&logo=react&logoColor=FF6600)
+![Electron](https://img.shields.io/badge/Electron-0D0D0D?style=for-the-badge&logo=electron&logoColor=FF6600)
+![Vite](https://img.shields.io/badge/Vite-0D0D0D?style=for-the-badge&logo=vite&logoColor=FF6600)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=FF6600)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0D0D0D?style=for-the-badge&logo=shadcnui&logoColor=FF6600)
+![MUI](https://img.shields.io/badge/Material_UI-0D0D0D?style=for-the-badge&logo=mui&logoColor=FF6600)
+![Styled Components](https://img.shields.io/badge/Styled_Components-0D0D0D?style=for-the-badge&logo=styledcomponents&logoColor=FF6600)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D0D0D?style=for-the-badge&logo=framer&logoColor=FF6600)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0D0D0D?style=for-the-badge&logo=reactquery&logoColor=FF6600)
+![Zustand](https://img.shields.io/badge/Zustand-0D0D0D?style=for-the-badge&logo=react&logoColor=FF6600)
+![Redux](https://img.shields.io/badge/Redux-0D0D0D?style=for-the-badge&logo=redux&logoColor=FF6600)
+![Storybook](https://img.shields.io/badge/Storybook-0D0D0D?style=for-the-badge&logo=storybook&logoColor=FF6600)
+
+**BACKEND & DATA**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=FF6600)
+![Express](https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=FF6600)
+![Django](https://img.shields.io/badge/Django-0D0D0D?style=for-the-badge&logo=django&logoColor=FF6600)
+![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=FF6600)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=FF6600)
+
+**EMBEDDED SYSTEMS // 組込**
+
+![ESP32](https://img.shields.io/badge/ESP32-0D0D0D?style=for-the-badge&logo=espressif&logoColor=FF6600)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-0D0D0D?style=for-the-badge&logo=espressif&logoColor=FF6600)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0D0D0D?style=for-the-badge&logo=freertos&logoColor=FF6600)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-0D0D0D?style=for-the-badge&logo=platformio&logoColor=FF6600)
+![Arduino](https://img.shields.io/badge/Arduino-0D0D0D?style=for-the-badge&logo=arduino&logoColor=FF6600)
+![ZMK](https://img.shields.io/badge/ZMK-0D0D0D?style=for-the-badge&logo=zmk&logoColor=FF6600)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D0D0D?style=for-the-badge&logo=raspberrypi&logoColor=FF6600)
+![C / C++](https://img.shields.io/badge/Bare--Metal_C%2FC%2B%2B-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=FF6600)
+
+**HARDWARE · CAD · PCB**
+
+![KiCad](https://img.shields.io/badge/KiCad-0D0D0D?style=for-the-badge&logo=kicad&logoColor=FF6600)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0D0D0D?style=for-the-badge&logo=autodesk&logoColor=FF6600)
+![nice!nano](https://img.shields.io/badge/nice!nano-0D0D0D?style=for-the-badge&logo=nordicsemiconductor&logoColor=FF6600)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0D0D0D?style=for-the-badge&logo=bluetooth&logoColor=FF6600)
+
+**R&D · OPS · DESIGN**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=FF6600)
+![NumPy](https://img.shields.io/badge/NumPy-0D0D0D?style=for-the-badge&logo=numpy&logoColor=FF6600)
+![Unity](https://img.shields.io/badge/Unity-0D0D0D?style=for-the-badge&logo=unity&logoColor=FF6600)
+![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=FF6600)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=FF6600)
+![Azure](https://img.shields.io/badge/Azure-0D0D0D?style=for-the-badge&logo=microsoftazure&logoColor=FF6600)
+![Figma](https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=FF6600)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCasamaximo&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&locale=en&hide=css,tcl,jupyter+notebook" alt="Top Langs" />
-</p>
+## ◤ DEPLOYED UNITS // 展開ユニット ◢
+
+> Active EVA units and prototypes recovered from the field.
+
+| UNIT | DESIGNATION | PATTERN | STATUS |
+|:----:|:------------|:--------|:------:|
+| **UNIT-01** | [`contExt`](https://github.com/RafaelCasamaximo/contExt) — contour extraction & mesh generation for laboratory imaging | `SCIENTIFIC` · Python / C++ · tied to a paper in *Computers in Biology and Medicine* | ⬤ `SYNCED` |
+| **UNIT-00** | [`voidPointer`](https://github.com/RafaelCasamaximo/voidPointer) — fully wireless 65% keyboard, through-hole, nice!nano + ZMK | `HARDWARE` · KiCad / ZMK / PCB | ◐ `TEST TYPE` |
+| **UNIT-02** | [`tuxniffer`](https://github.com/AcenoTecnologia/tuxniffer) — TI packet sniffer tooling for Linux terminals | `SYSTEMS` · C++ / CLI / Embedded | ◐ `ACTIVATING` |
+| **PROTO-A** | [`TrackerBoy`](https://github.com/RafaelCasamaximo/TrackerBoy) — DMG Game Boy emulator with debugging tools | `EMULATION` · C · low-level | ⬤ `FUNCTIONAL` |
+| **PROTO-B** | [`CHIP8-Emulator`](https://github.com/RafaelCasamaximo/CHIP8-Emulator) — experimental interpreter for opcode study | `EMULATION` · C++ | ◑ `EXPERIMENTAL` |
+
+---
+
+## ◤ TERMINAL LINK // 通信回線 ◢
+
+<div align="center">
+
+Email · LinkedIn are the fastest paths. ORCID for the research trail.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6600)](https://www.linkedin.com/in/rafaelcasamaximo/)
+[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6600)](mailto:rafaelcasamaximo2014@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6600)](https://rafaelcasamaximo.github.io/portifolio/)
+[![ORCID](https://img.shields.io/badge/ORCID-0D0D0D?style=for-the-badge&logo=orcid&logoColor=FF6600)](https://orcid.org/0009-0009-6404-206X)
+[![X](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=FF6600)](https://twitter.com/furlanetto2018)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6600,50:660000,100:0d0d0d&height=90&section=footer&text=極秘%20//%20END%20OF%20TRANSMISSION&fontColor=ffb347&fontSize=20&fontAlignY=55" width="100%"/>
+
+`SEELE // NERV` ─ *"神の righteous なき世界に、翼を。"* ─ powered by coffee & C
+
+</div>
