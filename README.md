@@ -7,9 +7,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:660000,100:ff6600&height=180&section=header&text=N%20E%20R%20V&fontColor=ffb347&fontSize=88&fontAlignY=42&desc=ネルフ%20//%20R.%20CASAMAXIMO%20//%20PILOT%20PROFILE&descAlignY=72&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:660000,100:ff6600&height=180&section=header&text=N%20E%20R%20V&fontColor=ffb347&fontSize=88&fontAlignY=42&desc=%E3%83%8D%E3%83%AB%E3%83%95%20//%20R.%20CASAMAXIMO%20//%20PILOT%20PROFILE&descAlignY=72&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3200&pause=700&color=FF6600&center=true&vCenter=true&width=680&height=45&lines=MAGI+SYSTEM+ONLINE...;SYNCHRONIZATION+RATIO+NOMINAL;使徒+PATTERN%3A+BLUE+%E2%80%94+ENGINEER+DETECTED;AWAITING+ORDERS..." alt="typing status"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3200&pause=700&color=FF6600&center=true&vCenter=true&width=680&height=45&lines=MAGI+SYSTEM+ONLINE...;SYNCHRONIZATION+RATIO+NOMINAL;PATTERN+BLUE+%3A+ENGINEER+DETECTED;AWAITING+ORDERS..." alt="typing status"/>
 
 <br/>
 
