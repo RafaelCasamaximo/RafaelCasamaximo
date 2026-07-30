@@ -1,0 +1,60 @@
+name: Atualizar cards do README
+
+on:
+  schedule:
+    # 06:00 UTC = 03:00 em Brasília — horário de baixa carga nos servidores dos cards
+    - cron: "0 6 * * *"
+  workflow_dispatch: {} # permite rodar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Baixar cards
+        run: |
+          mkdir -p assets
+
+          # Baixa com até 5 tentativas e valida que o resultado é um SVG
+          # de verdade (e não uma página/card de erro). Se todas falharem,
+          # mantém a versão anterior do arquivo — o README nunca quebra.
+          fetch () {
+            local url="$1" out="$2"
+            for i in 1 2 3 4 5; do
+              if curl -fsSL --max-time 60 "$url" -o "$out.tmp" \
+                 && grep -qi "<svg" "$out.tmp" \
+                 && ! grep -qiE "Something went wrong|Error Fetching|Maximum retries" "$out.tmp"; then
+                mv "$out.tmp" "$out"
+                echo "OK: $out"
+                return 0
+              fi
+              echo "Tentativa $i falhou para $out, aguardando 60s..."
+              sleep 60
+            done
+            echo "::warning::Todas as tentativas falharam para $out — mantendo a versão anterior"
+            rm -f "$out.tmp"
+            return 0
+          }
+
+          fetch "https://github-readme-stats.vercel.app/api?username=RafaelFurlanetto&show_icons=true&count_private=true&include_all_commits=true&custom_title=CLASSIFIED%20OPS%20//%20SYNC%20TELEMETRY&bg_color=0D0D0D&title_color=FF6600&icon_color=FF6600&text_color=FFB347&border_color=660000&rank_icon=percentile" assets/stats.svg
+
+          fetch "https://streak-stats.demolab.com?user=RafaelFurlanetto&background=0D0D0D&ring=FF6600&fire=FF3300&currStreakLabel=FF6600&sideLabels=FFB347&currStreakNum=FFB347&sideNums=FFB347&dates=8A8A8A&border=660000&date_format=%5BY.%5Dn.j" assets/streak.svg
+
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=RafaelFurlanetto&custom_title=OPERATION%20LOG%20//%20LAST%2031%20DAYS&bg_color=0D0D0D&color=FFB347&line=FF6600&point=FF3300&area=true&area_color=66220044&border_color=660000&title_color=FF6600" assets/activity.svg
+
+      - name: Commit se houver mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança nos cards — nada a commitar."
+          else
+            git commit -m "chore: atualiza cards de estatísticas"
+            git push
+          fi
