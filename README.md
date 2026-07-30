@@ -129,6 +129,26 @@
 
 ---
 
+## ◤ COMBAT RECORD // 戦闘記録 ◢
+
+> Field telemetry from the classified operations unit — [`RafaelFurlanetto`](https://github.com/RafaelFurlanetto).
+> Payload contents remain 極秘 (TOP SECRET). Only activity signatures are broadcast.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelFurlanetto&show_icons=true&count_private=true&include_all_commits=true&custom_title=CLASSIFIED%20OPS%20//%20SYNC%20TELEMETRY&bg_color=0D0D0D&title_color=FF6600&icon_color=FF6600&text_color=FFB347&border_color=660000&rank_icon=percentile" height="180" alt="work account stats"/>
+<img src="https://streak-stats.demolab.com?user=RafaelFurlanetto&background=0D0D0D&ring=FF6600&fire=FF3300&currStreakLabel=FF6600&sideLabels=FFB347&currStreakNum=FFB347&sideNums=FFB347&dates=8A8A8A&border=660000&date_format=%5BY.%5Dn.j" height="180" alt="work account streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelFurlanetto&custom_title=OPERATION%20LOG%20//%20LAST%2031%20DAYS&bg_color=0D0D0D&color=FFB347&line=FF6600&point=FF3300&area=true&area_color=66220044&border_color=660000&title_color=FF6600" width="100%" alt="work account activity graph"/>
+
+**A.T. FIELD INTEGRITY** ─ REPOSITORIES `SEALED` · COMMIT SIGNATURES `PUBLIC` · PATTERN `ORANGE`
+
+</div>
+
+---
+
 ## ◤ TERMINAL LINK // 通信回線 ◢
 
 <div align="center">
