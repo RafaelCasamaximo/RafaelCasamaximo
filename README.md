@@ -132,18 +132,11 @@
 ## ◤ COMBAT RECORD // 戦闘記録 ◢
 
 > Field telemetry from the classified operations unit — [`RafaelFurlanetto`](https://github.com/RafaelFurlanetto).
-> Payload contents remain 極秘 (TOP SECRET). Only activity signatures are broadcast.
+> Payload contents remain 極秘 (TOP SECRET). Only capability signatures are broadcast.
 
 <div align="center">
 
-<img src="assets/stats.svg" height="180" alt="work account stats"/>
-<img src="assets/streak.svg" height="180" alt="work account streak"/>
-
-<br/><br/>
-
-<img src="assets/activity.svg" width="100%" alt="work account activity graph"/>
-
-**A.T. FIELD INTEGRITY** ─ REPOSITORIES `SEALED` · COMMIT SIGNATURES `PUBLIC` · PATTERN `ORANGE`
+<img src="https://raw.githubusercontent.com/RafaelCasamaximo/RafaelCasamaximo/main/assets/telemetry.svg" width="100%" alt="operational telemetry — operation distribution by domain"/>
 
 </div>
 
